@@ -19,4 +19,4 @@ Este projeto é um script automatizado em Python que realiza uma varredura de da
 
 1. Abra o seu terminal (Git Bash) e navegue até a pasta do projeto:
    ```bash
-   cd /c/Componentes/clubedovalor
+   cd <local do projeto>/clubedovalor
